@@ -1,0 +1,9 @@
+1.1.1.1 www.google.com
+2.2.2.2 www.amazon.com
+3.3.3.3 www.flipcart.com
+4.4.4.4 www.ipl.com
+5.5.5.5 www.irctc.in
+6.6.6.6 www.facebook.com
+7.7.7.7 www.instagram.com
+8.8.8.8 www.youtube.com
+9.9.9.9 www.twitter.com
